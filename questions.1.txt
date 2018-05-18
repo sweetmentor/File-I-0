@@ -1,0 +1,9 @@
+whats your name?|stephen
+how old?|25
+whats your name?|stephen
+capital of france|paris
+whats your favourite car?|benz
+whats your mothers name?|Alice
+whats your best color|yellow
+choice of phone?|samsung
+whats your laptop choice?|mac

@@ -1,0 +1,10 @@
+whats your name?
+stephen
+how old?
+25
+capital of france?
+paris
+whats your favourite car?
+benz
+whats your mothers name?
+Alice
